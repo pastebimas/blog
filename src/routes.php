@@ -11,7 +11,7 @@
 |
 */
 
-// config panel to load from our namespace for panel 
+// config panel to load from our namespace for panel ||||||||||pavyko
 if (\Request::is('panel/Blog/*'))
 {
     \Config::set('panel.controllers', 'Serverfireteam\blog\panel');
