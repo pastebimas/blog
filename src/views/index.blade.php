@@ -51,8 +51,8 @@
     @endif
 </div>
 <footer class="footer">
-      <div class="container">
-        <p class="text-muted">Powered by <a href="https://github.com/serverfireteam/panel">Serverfireteam/panel</a> .</p>
+      <div class="container">asfas
+        <p class="text-muted">Poweredasfasfasf by <a href="https://github.com/serverfireteam/panel">Serverfireteam/panel</a> .</p>
       </div>
     </footer>
 
