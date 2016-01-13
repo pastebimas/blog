@@ -10,7 +10,7 @@ class BlogController extends \Serverfireteam\Panel\CrudController {
     public function all($entity) {
 
         parent::all($entity);
-
+		// gerasis
         $this->filter = \DataFilter::source(new \App\Blog());
         $this->filter->add('id', 'ID', 'text');
         $this->filter->add('title', 'Pavadinimas', 'text');
