@@ -1,9 +1,4 @@
-# blog
-A nice blog system with laravel 5 and laravelpanel 
-
-
-##Installations for laravel 5
-Note: if you face any problem in any of the steps you should report it at [github](https://github.com/serverfireteam/blog/issues/new)
+Pastebimas
 
 
 1. First you need to create a laravel 5 project
